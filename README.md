@@ -1,1 +1,1 @@
-# challenges-data-analysis
+# Laboratorio de Práctica Python
