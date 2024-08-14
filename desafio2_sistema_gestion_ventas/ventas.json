@@ -1,0 +1,30 @@
+[
+    {
+        "fecha": "2024-08-14 09:34:22",
+        "cliente": "Lucho",
+        "productos": [
+            {
+                "nombre": "Celular",
+                "precio": 40000.0
+            },
+            {
+                "nombre": "Funda de celular",
+                "precio": 5000.0
+            }
+        ],
+        "direccion_envio": "calle 5566",
+        "tipo": "VentaOnline"
+    },
+    {
+        "fecha": "2024-08-14 09:35:00",
+        "cliente": "Emanuel",
+        "productos": [
+            {
+                "nombre": "Televisor",
+                "precio": 55000.0
+            }
+        ],
+        "sucursal": "Centrogar",
+        "tipo": "VentaLocal"
+    }
+]

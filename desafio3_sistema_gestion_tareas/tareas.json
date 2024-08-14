@@ -1,0 +1,16 @@
+[
+  {
+    "descripcion": "Viaje para cordoba",
+    "fecha_vencimiento": "2024-08-30",
+    "estado": "pendiente",
+    "frecuencia": 5,
+    "tipo": "TareaRecurrente"
+  },
+  {
+    "descripcion": "Ir al supermercado",
+    "fecha_vencimiento": "2024-08-20",
+    "estado": "pendiente",
+    "prioridad": "alta",
+    "tipo": "TareaSimple"
+  }
+]

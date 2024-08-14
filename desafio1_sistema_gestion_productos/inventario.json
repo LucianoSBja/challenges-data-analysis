@@ -1,0 +1,9 @@
+[
+    {
+        "nombre": "Samsung",
+        "precio": 200000.0,
+        "cantidad": 5,
+        "marca": "Samsung",
+        "garantia": 6
+    }
+]
