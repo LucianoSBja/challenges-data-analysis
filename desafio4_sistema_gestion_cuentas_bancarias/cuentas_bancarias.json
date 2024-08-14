@@ -1,0 +1,1 @@
+[{"numero_cuenta": "1234", "titular": "Samuel", "saldo": 200000.0, "fecha_apertura": "2024-08-14", "tasa_interes": 0.05, "tipo": "CuentaAhorro"}, {"numero_cuenta": "543", "titular": "Emanuel", "saldo": 160000.0, "fecha_apertura": "2024-08-14", "limite_sobregiro": 30000.0, "tipo": "CuentaCorriente"}]
